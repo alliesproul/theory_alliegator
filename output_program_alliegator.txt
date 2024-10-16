@@ -1,0 +1,65 @@
+﻿3,4,9,218,Unsatisfiable,1,227
+4,4,9,218,Satisfiable,1,12,1,0,0,0
+5,4,9,218,Satisfiable,1,83,0,0,1,1
+6,4,9,218,Satisfiable,1,80,1,1,0,1
+7,4,9,218,Satisfiable,1,6,0,0,0,0
+8,4,9,218,Unsatisfiable,1,192
+9,4,9,218,Unsatisfiable,1,168
+10,4,9,218,Unsatisfiable,1,219
+11,4,9,218,Satisfiable,1,18,0,0,0,0
+12,4,9,218,Satisfiable,1,22,1,0,0,0
+# Satisfied = 1. # Unsatisfied = 0
+Max Sat Time = 22 μs. Max Unsat Time = 0 μs
+Ave Sat Time = 2.2 μs. Ave UnSat Time = 0.0 μs
+13,8,18,236,Unsatisfiable,1,3096
+14,8,18,236,Satisfiable,1,1537,0,1,0,0,1,1,1,1
+15,8,18,236,Unsatisfiable,1,3807
+16,8,18,236,Unsatisfiable,1,3445
+17,8,18,236,Satisfiable,1,398,1,0,0,0,0,0,1,0
+18,8,18,236,Unsatisfiable,1,3162
+19,8,18,236,Satisfiable,1,612,0,1,1,0,0,1,1,0
+20,8,18,236,Unsatisfiable,1,3034
+21,8,18,236,Unsatisfiable,1,3321
+22,8,18,236,Satisfiable,1,664,1,1,1,0,1,0,1,0
+# Satisfied = 1. # Unsatisfied = 0
+Max Sat Time = 664 μs. Max Unsat Time = 0 μs
+Ave Sat Time = 66.4 μs. Ave UnSat Time = 0.0 μs
+23,12,20,240,Unsatisfiable,1,56813
+24,12,20,240,Unsatisfiable,1,79456
+25,12,20,240,Satisfiable,1,543,1,0,1,1,0,0,1,0,0,0,0,0
+26,12,20,240,Unsatisfiable,1,164510
+27,12,20,240,Unsatisfiable,1,112987
+28,12,20,240,Satisfiable,1,20483,1,0,1,0,0,0,0,0,0,0,1,0
+29,12,20,240,Satisfiable,1,13890,0,0,1,1,1,0,1,1,0,1,0,0
+30,12,20,240,Satisfiable,1,34331,0,0,1,1,0,0,1,1,1,1,1,0
+31,12,20,240,Satisfiable,1,27250,1,0,0,0,1,0,0,1,0,0,0,1
+32,12,20,240,Satisfiable,1,2602,0,0,1,0,1,0,0,0,1,0,0,0
+# Satisfied = 1. # Unsatisfied = 0
+Max Sat Time = 2602 μs. Max Unsat Time = 0 μs
+Ave Sat Time = 260.2 μs. Ave UnSat Time = 0.0 μs
+33,16,30,260,Satisfiable,1,589618,0,1,1,0,0,1,0,1,1,0,0,1,0,1,1,1
+34,16,30,260,Satisfiable,1,667980,0,1,0,1,1,0,0,0,0,1,0,1,1,0,1,1
+35,16,30,260,Unsatisfiable,1,848205
+36,16,30,260,Satisfiable,1,222460,1,1,0,1,0,0,0,1,0,1,0,1,0,1,1,1
+37,16,30,260,Unsatisfiable,1,512747
+38,16,30,260,Unsatisfiable,1,552552
+39,16,30,260,Satisfiable,1,90004,1,0,1,1,0,0,1,0,0,0,1,1,0,0,1,0
+40,16,30,260,Unsatisfiable,1,798412
+41,16,30,260,Unsatisfiable,1,1180611
+42,16,30,260,Unsatisfiable,1,1112636
+# Satisfied = 0. # Unsatisfied = 1
+Max Sat Time = 0 μs. Max Unsat Time = 1112636 μs
+Ave Sat Time = 0.0 μs. Ave UnSat Time = 111263.6 μs
+43,18,32,264,Unsatisfiable,1,2255014
+44,18,32,264,Unsatisfiable,1,1728987
+45,18,32,264,Unsatisfiable,1,1747772
+46,18,32,264,Satisfiable,1,125662,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0
+47,18,32,264,Satisfiable,1,227254,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+48,18,32,264,Satisfiable,1,77158,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+49,18,32,264,Unsatisfiable,1,1886874
+50,18,32,264,Satisfiable,1,4697,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+51,18,32,264,Unsatisfiable,1,1653480
+52,18,32,264,Unsatisfiable,1,2235774
+# Satisfied = 0. # Unsatisfied = 1
+Max Sat Time = 0 μs. Max Unsat Time = 2235774 μs
+Ave Sat Time = 0.0 μs. Ave UnSat Time = 223577.4 μs
